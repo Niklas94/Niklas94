@@ -1,5 +1,6 @@
-Hi, my name is Niklas. I have studied a Bsc of engineering in softwaretechnology at DTU and are currently studying a Msc in computerscience and engineering. 
-I'm also working at Airofit as a student developer.
+Hi, my name is Niklas. I have studied at the Technical University of Denmark, at first a bachelor of engineering in Software Technology, followed by a Master of science in Computer Science.
+I have during my studies worked two seperate places as a student developer with primary focus on front-end development (Web- and Mobile applications). 
+I finished my studies in 2023, and have since worked at ATP as a Back-end java developer.
 
 <!--
 - 👋 Hi, I’m @Niklas94
